@@ -16,4 +16,4 @@ Username: johndoe@gmail.com
 Password: Test@123
 Or Register a new user.
 
-Output screenshots: ![Screenshot]()
+Output screenshots: ![Screenshot]() 

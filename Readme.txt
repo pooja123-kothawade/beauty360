@@ -7,6 +7,7 @@ How to run the Beauty Palour Management System (BPMS) Project
 6. Import bpmsdb.sql file(given inside the zip package in SQL file folder)
 7.Run the script http://localhost/bpms (frontend)
 
+
 Credential for admin panel :
 Username: admin
 Password: Test@123

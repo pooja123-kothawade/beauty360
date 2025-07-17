@@ -17,4 +17,9 @@ Username: johndoe@gmail.com
 Password: Test@123
 Or Register a new user.
 
-Output screenshots: ![Screenshot](documents/ss/bpms3.png) documents/ss/bpms2.png documents/ss/bpms1.png
+### Output Screenshots:
+
+![Screenshot 1](documents/ss/bpms1.png)
+![Screenshot 2](documents/ss/bpms2.png)
+![Screenshot 3](documents/ss/bpms3.png)
+
